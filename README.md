@@ -1,4 +1,4 @@
-# The Python Mega Course: Build 10 Real World Applications
+# Python Programmer Professional – Learn all the important skills, get all the best programming jobs
 
 You will learn the entire process of program development in Python, from writing a program to producing the final .exe or .app executable which you can share with friends and colleagues.There will be 10 real-world applications that we will build together. These are:
 
@@ -19,7 +19,7 @@ Hi I'm Al Ardosa the Fellow Actuary. I've been making tutorials since 2013. I'm 
 I've been working as a senior software developer and tech lead in Lazada and other tech companies for many years, and is now taking all that I've learned, to teach programming skills and to help you discover the amazing career opportunities that being a developer.
 
 ### References
-[Python Programmer Bootcamp – Build Real World Applications](https://www.alardosa.com/python-programmer-mega-course/)
+[Python Programmer Bootcamp – Build Real World Applications](https://www.alardosa.com/python-programmer-mega-course)
 
 [The Python Mega Course: Build 10 Real World Applications ](https://www.udemy.com/course/the-python-mega-course/)
 
